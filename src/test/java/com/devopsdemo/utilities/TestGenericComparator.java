@@ -12,7 +12,7 @@ import junit.framework.TestSuite;
 import org.junit.*; 
 /**
  * @author Seshagiri Sriram
- *
+ * Salmaan Fariz -Trigger
  */
 
 @SuppressWarnings({"rawtypes","unchecked"})
